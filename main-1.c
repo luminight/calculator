@@ -8,7 +8,7 @@ int multi(int, int);
 int main(int argc, char* argv[])
 {
 
-	int a, b, c,d, e1234;
+	int a, b, c,d, e12345678;
 
 	char operator;
 	
